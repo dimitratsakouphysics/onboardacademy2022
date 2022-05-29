@@ -1,0 +1,71 @@
+
+Light sensitivity
+3
+angle is
+0
+Light sensitivity
+5
+angle is
+1
+Light sensitivity
+0
+angle is
+0
+Light sensitivity
+0
+angle is
+0
+Light sensitivity
+0
+angle is
+0
+Light sensitivity
+65
+angle is
+13
+Light sensitivity
+111
+angle is
+22
+Light sensitivity
+34
+angle is
+6
+Light sensitivity
+34
+angle is
+6
+Light sensitivity
+674
+angle is
+134
+Light sensitivity
+19
+angle is
+3
+Light sensitivity
+38
+angle is
+7
+Light sensitivity
+85
+angle is
+17
+Light sensitivity
+19
+angle is
+3
+Light sensitivity
+0
+angle is
+0
+Light sensitivity
+0
+angle is
+0
+Light sensitivity
+3
+angle is
+0
+Light sensitivity
+5
